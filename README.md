@@ -16,17 +16,10 @@ This project was developed as a part of the placement assignment for **rtCamp**.
 
 Here’s a quick look at the application's interface.
 
-## Subscription Page
-<img width="466" height="609" alt="image" src="https://github.com/user-attachments/assets/a035b625-c2bf-4361-adb6-214216bcff3d" />
-Users enter their email to start the subscription process.
-
-## Unsubscribe Page
-<img width="416" height="608" alt="image" src="https://github.com/user-attachments/assets/84752fcf-abb5-427a-93ee-0cf103c74ffe" />
-Users can easily opt-out with a similar verification process.
-
-## Sample XKCD Email
-<img width="477" height="506" alt="image" src="https://github.com/user-attachments/assets/0a72ad8f-4497-48f1-b9d9-34b78253f7d5" />
-A daily dose of humor delivered right to the inbox.
+| Subscription Page | Unsubscribe Page | Sample XKCD Email |
+| :---: | :---: | :---: |
+| *<img width="466" height="609" alt="image" src="https://github.com/user-attachments/assets/a035b625-c2bf-4361-adb6-214216bcff3d" />* | *<img width="416" height="608" alt="image" src="https://github.com/user-attachments/assets/84752fcf-abb5-427a-93ee-0cf103c74ffe" />* | *<img width="477" height="506" alt="image" src="https://github.com/user-attachments/assets/0a72ad8f-4497-48f1-b9d9-34b78253f7d5" />* |
+| *Users enter their email to start the subscription process.* | *Users can easily opt-out with a similar verification process.*| *A daily dose of humor delivered right to the inbox.* |
 
 
 ## ✨ Features
