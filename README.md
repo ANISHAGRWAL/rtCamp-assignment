@@ -16,16 +16,16 @@ This project was developed as a part of the placement assignment for **rtCamp**.
 
 Here’s a quick look at the application's interface.
 
-Subscription Page
-<img width="1339" height="609" alt="image" src="https://github.com/user-attachments/assets/deeb87aa-379b-4a8a-868f-d847aea6efa0" />
+## Subscription Page
+<img width="466" height="609" alt="image" src="https://github.com/user-attachments/assets/a035b625-c2bf-4361-adb6-214216bcff3d" />
 Users enter their email to start the subscription process.
 
-Unsubscribe Page
-<img width="1341" height="609" alt="image" src="https://github.com/user-attachments/assets/eb476f4c-4adb-4eae-98a5-4ed1d5a26ff6" />
+## Unsubscribe Page
+<img width="416" height="608" alt="image" src="https://github.com/user-attachments/assets/84752fcf-abb5-427a-93ee-0cf103c74ffe" />
 Users can easily opt-out with a similar verification process.
 
-Sample XKCD Email
-<img width="1343" height="612" alt="image" src="https://github.com/user-attachments/assets/ca4a06f1-6973-43ed-bd9e-9e1361ef641e" />
+## Sample XKCD Email
+<img width="477" height="506" alt="image" src="https://github.com/user-attachments/assets/0a72ad8f-4497-48f1-b9d9-34b78253f7d5" />
 A daily dose of humor delivered right to the inbox.
 
 
