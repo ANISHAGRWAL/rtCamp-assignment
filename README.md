@@ -1,9 +1,3 @@
-Of course\! Here is a draft for your GitHub README.md file. It's designed to be clear, concise, and professional, explaining your project's functionality while highlighting your skills.
-
-You can copy and paste the content below directly into a `README.md` file in your repository.
-
------
-
 # XKCD Comic Email Subscription System
 
 This project is a PHP-based web application that allows users to subscribe to a mailing list to receive a random XKCD comic in their inbox every day. It features a secure email verification system for both subscribing and unsubscribing, and it uses a CRON job for automated daily emails.
